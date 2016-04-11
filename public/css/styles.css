@@ -1,0 +1,31 @@
+/* Styles for Trusted Pixels */
+
+body {
+  background: black url("../img/home-background.png") no-repeat fixed center center / cover ;
+  height:100%;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+nav, footer {
+  opacity: .68;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.purple-font {
+  color: #232f83;
+}
+
+#short-film-title {
+  background-color: #232f83;
+  opacity: .68;
+}
+
+#main-nav-container {
+  margin-left: 5.75rem;
+  margin-right: 2.25rem;
+}
