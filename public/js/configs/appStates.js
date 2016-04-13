@@ -7,7 +7,7 @@ angular.module('TrustingPixels')
     .state('home', {
       url: '/',
       controller: 'homeController',
-      templateUrl: 'components/home-partial.html'
+      templateUrl: 'views/partials/home-partial.html'
     })
 
   $locationProvider.html5Mode(true);
