@@ -1,8 +1,11 @@
 /* Styles for Trusted Pixels */
 
-body {
+#home-wrapper {
   /* Background img fills screen */
   background: black url("../img/home-background.png") no-repeat fixed center center / cover ;
+}
+
+.page-wrapper {
   height:100%;
   /* Puts navbar on the bottom */
   display: flex;

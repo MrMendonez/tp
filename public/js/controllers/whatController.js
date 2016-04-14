@@ -1,7 +1,10 @@
 angular.module('TrustingPixels')
 .config(['$stateProvider', '$urlRouterProvider', '$locationProvider', function($stateProvider, $urlRouterProvider, $locationProvider) {
 
-  $state.go($state.current, {}, {reload: true});
+  // $scope.whatWeDoBackground = function() {
+  //   // console.log('whatWeDoBackground function fired');
+  //   // $('body').css("background-image", "url(../img/whatwedo-background.png)");
+  // }
 
   $locationProvider.html5Mode(true);
 }]);
