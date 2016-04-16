@@ -1,10 +1,5 @@
 /* Styles for Trusted Pixels */
 
-#home-wrapper {
-  /* Background img fills screen */
-  background: black url("../img/home-background.png") no-repeat fixed center center / cover ;
-}
-
 .page-wrapper {
   height:100%;
   /* Puts navbar on the bottom */
@@ -13,14 +8,14 @@
   flex-direction: column;
 }
 
-#whatwedo-page {
+#home-wrapper {
+  /* Background img fills screen */
+  background: black url("../img/home-background.png") no-repeat fixed center center / cover ;
+}
+
+#what-wrapper {
   /* Background img fills screen */
   background: black url("../img/whatwedo-background.png") no-repeat fixed center center / cover ;
-  height:100%;
-  /* Puts navbar on the bottom */
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
 }
 
 nav {

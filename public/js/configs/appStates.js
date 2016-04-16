@@ -11,23 +11,28 @@ angular.module('TrustingPixels')
     })
     .state('what', {
       url: '/what',
-      controller: 'whatController',
+      // controller: 'whatController',
       templateUrl: 'views/partials/whatwedo-partial.html'
     })
     .state('how', {
       url: '/how',
-      controller: 'howController',
+      // controller: 'howController',
       templateUrl: 'views/partials/howwedoit-partial.html'
     })
     .state('why', {
       url: '/why',
-      controller: 'whyController',
+      // controller: 'whyController',
       templateUrl: 'views/partials/whywedoit-partial.html'
     })
     .state('contact', {
       url: '/contact',
-      controller: 'contactController',
+      // controller: 'contactController',
       templateUrl: 'views/partials/contact-partial.html'
+    })
+    .state('plunkr', {
+      url: '/plunkr',
+      // controller: 'contactController',
+      templateUrl: 'views/plunkr/index.html'
     })
 
   $locationProvider.html5Mode(true);
