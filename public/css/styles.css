@@ -15,7 +15,22 @@
 
 #what-wrapper {
   /* Background img fills screen */
-  background: black url("../img/whatwedo-background.png") no-repeat fixed center center / cover ;
+  background: black url("../img/what-background.png") no-repeat fixed center center / cover ;
+}
+
+#how-wrapper {
+  /* Background img fills screen */
+  background: black url("../img/how-background.png") no-repeat fixed center center / cover ;
+}
+
+#why-wrapper {
+  /* Background img fills screen */
+  background: black url("../img/why-background.png") no-repeat fixed center center / cover ;
+}
+
+#contact-wrapper {
+  /* Background img fills screen */
+  background: black url("../img/contact-background.png") no-repeat fixed center center / cover ;
 }
 
 nav {

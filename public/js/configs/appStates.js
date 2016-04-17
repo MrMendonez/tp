@@ -6,23 +6,23 @@ angular.module('TrustingPixels')
   $stateProvider
     .state('home', {
       url: '/',
-      controller: 'homeController',
+      // controller: 'homeController',
       templateUrl: 'views/partials/home-partial.html'
     })
     .state('what', {
       url: '/what',
       // controller: 'whatController',
-      templateUrl: 'views/partials/whatwedo-partial.html'
+      templateUrl: 'views/partials/what-partial.html'
     })
     .state('how', {
       url: '/how',
       // controller: 'howController',
-      templateUrl: 'views/partials/howwedoit-partial.html'
+      templateUrl: 'views/partials/how-partial.html'
     })
     .state('why', {
       url: '/why',
       // controller: 'whyController',
-      templateUrl: 'views/partials/whywedoit-partial.html'
+      templateUrl: 'views/partials/why-partial.html'
     })
     .state('contact', {
       url: '/contact',
