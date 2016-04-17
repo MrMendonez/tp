@@ -42,6 +42,11 @@ nav {
   /*height: 28px;*/
 }
 
+.white-background {
+  background-color: white;
+  opacity: .41;
+}
+
 main {
   flex: 1 0 auto; /* Puts navbar on the bottom */
 }
@@ -50,12 +55,24 @@ main {
   color: #232f83;
 }
 
-#short-film-title {
+.purple-background {
   background-color: #232f83;
   opacity: .68;
+}
+
+.text-padding {
+  padding: 5px 10px 10px 20px; /* top right bottom left */
 }
 
 #main-nav-container {
   margin-left: 5.75rem;
   margin-right: 2.25rem;
+}
+
+#color-controls {
+  width: 215px;
+}
+
+.inline {
+  display: inline;
 }
