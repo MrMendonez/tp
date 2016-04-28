@@ -33,15 +33,6 @@
   background: black url("../img/contact-background.png") no-repeat fixed center center / cover ;
 }
 
-nav {
-  opacity: .68;
-}
-
-#footer-bar {
-  opacity: .41;
-  /*height: 28px;*/
-}
-
 .white-background {
   background-color: white;
   opacity: .41;
@@ -64,15 +55,15 @@ main {
   padding: 5px 10px 10px 20px; /* top right bottom left */
 }
 
-#main-nav-container {
-  margin-left: 5.75rem;
-  margin-right: 2.25rem;
-}
-
 #color-controls {
   width: 215px;
 }
 
 .inline {
   display: inline;
+}
+
+@font-face {
+    font-family: corbel-bold;
+    src: url(../fonts/corbel-bold.ttf);
 }

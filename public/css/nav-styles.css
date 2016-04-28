@@ -1,0 +1,11 @@
+nav {
+  opacity: .68;
+  height: 69px;
+  font-family: corbel-bold;
+  font-size: 12px;
+}
+
+#main-nav-container {
+  margin-left: 5.75rem;
+  margin-right: 2.25rem;
+}
