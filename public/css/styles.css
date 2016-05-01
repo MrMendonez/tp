@@ -1,5 +1,9 @@
 /* Styles for Trusted Pixels */
 
+body {
+  font-family: 'Century Gothic';
+}
+
 .page-wrapper {
   height:100%;
   /* Puts navbar on the bottom */
@@ -64,6 +68,6 @@ main {
 }
 
 @font-face {
-    font-family: corbel-bold;
-    src: url(../fonts/corbel-bold.ttf);
+  font-family: corbel-bold;
+  src: url(../fonts/corbel-bold.ttf);
 }
