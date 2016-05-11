@@ -14,12 +14,12 @@ body {
 
 #home-wrapper {
   /* Background img fills screen */
-  background: black url("../img/home-background.png") no-repeat fixed center center / cover ;
+  background: black url("../img/home-background.jpg") no-repeat fixed center center / cover ;
 }
 
 #what-wrapper {
   /* Background img fills screen */
-  background: black url("../img/what-background.png") no-repeat fixed center center / cover ;
+  background: black url("../img/what-background.jpg") no-repeat fixed center center / cover ;
 }
 
 #how-wrapper {
@@ -29,12 +29,12 @@ body {
 
 #why-wrapper {
   /* Background img fills screen */
-  background: black url("../img/why-background.png") no-repeat fixed center center / cover ;
+  background: black url("../img/why-background.jpg") no-repeat fixed center center / cover ;
 }
 
 #contact-wrapper {
   /* Background img fills screen */
-  background: black url("../img/contact-background.png") no-repeat fixed center center / cover ;
+  background: black url("../img/contact-background.jpg") no-repeat fixed center center / cover ;
 }
 
 .white-background {
