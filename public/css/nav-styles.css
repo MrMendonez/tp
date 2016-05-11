@@ -1,6 +1,5 @@
 #navbar {
   opacity: .68;
-  height: 69px;
 }
 
 #main-nav-container {
@@ -9,7 +8,13 @@
 }
 
 #trusting-pixels-brand {
-  font-family: corbel-bold;
+  /*  font-family: corbel-bold;*/
+  font-size: 2.5rem;
+  margin-left: 145px;
+}
+
+.menu-item {
+  margin-right: 25px;
 }
 
 #inc-brand {

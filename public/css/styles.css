@@ -24,7 +24,7 @@ body {
 
 #how-wrapper {
   /* Background img fills screen */
-  background: black url("../img/how-background.png") no-repeat fixed center center / cover ;
+  background: black url("../img/how-background.jpg") no-repeat fixed center center / cover ;
 }
 
 #why-wrapper {
@@ -65,6 +65,10 @@ main {
 
 .inline {
   display: inline;
+}
+
+.inc-size {
+  font-size: 1rem;
 }
 
 @font-face {
