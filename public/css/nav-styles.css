@@ -3,14 +3,14 @@
 }
 
 #main-nav-container {
-  margin-left: 5.75rem;
+  margin-left: 12.25rem;
   margin-right: 2.25rem;
 }
 
 #trusting-pixels-brand {
   /*  font-family: corbel-bold;*/
   font-size: 2.25rem;
-  margin-left: 145px;
+  /*margin-left: 145px;*/
 }
 
 .menu-item {

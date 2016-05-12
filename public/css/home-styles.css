@@ -10,8 +10,8 @@
 #short-film-title-text {
   font-size: 2.5rem;
   padding: 5px 0px;
-  color: white !important;
-  opacity: 1 !important;
+  color: white;
+  opacity: 1;
 }
 
 #sm-menu {
@@ -23,3 +23,6 @@
   right: 0px;
 }
 
+.sm-icons {
+  opacity: 1;
+}
