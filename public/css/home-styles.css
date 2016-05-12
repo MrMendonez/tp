@@ -1,0 +1,14 @@
+.inc-size {
+  font-size: 1.1rem;
+}
+
+#short-film-title {
+  position: relative;
+  top: -21px;
+}
+
+#short-film-title-text {
+  font-size: 2.5rem;
+  padding: 5px 0px;
+  color: white;
+}

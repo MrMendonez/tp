@@ -52,7 +52,7 @@ main {
 
 .purple-background {
   background-color: #232f83;
-  opacity: .68;
+  opacity: .50;
 }
 
 .text-padding {
@@ -65,10 +65,6 @@ main {
 
 .inline {
   display: inline;
-}
-
-.inc-size {
-  font-size: 1rem;
 }
 
 @font-face {
