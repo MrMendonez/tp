@@ -57,7 +57,11 @@ main {
 }
 
 .text-padding {
-  padding: 5px 10px 10px 20px; /* top right bottom left */
+  padding: 20px 15px; /* top/bottom left/right */
+}
+
+.description-text {
+  font-size: 1.15rem;
 }
 
 #color-controls {
