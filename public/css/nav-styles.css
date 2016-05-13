@@ -13,6 +13,11 @@
   /*margin-left: 145px;*/
 }
 
+#tplogo-navbar {
+  width: 250px;
+  padding-top: 15px;
+}
+
 .menu-item {
   margin-right: 25px;
 }
