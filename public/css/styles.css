@@ -53,7 +53,7 @@ main {
 
 .purple-background {
   background-color: #232f83;
-  opacity: .50;
+  opacity: .40;
 }
 
 .text-padding {
@@ -71,4 +71,8 @@ main {
 @font-face {
   font-family: corbel-bold;
   src: url(../fonts/corbel-bold.ttf);
+}
+
+.tp-white {
+  color: #cccac8;
 }
