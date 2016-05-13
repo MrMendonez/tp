@@ -7,10 +7,11 @@
   font-size: 1.1rem;
 }
 
-#short-film-title {
+/* Use this when youtube video is embedded */
+/*#short-film-title {
   position: relative;
-  top: -21px;
-}
+  top: -11px;
+}*/
 
 #short-film-title-text {
   font-size: 2.5rem;
@@ -19,10 +20,14 @@
   opacity: 1;
 }
 
-#launch-img {
-  width: 340px;
-}
-
 #home-description {
   padding: 0px 15px;
+}
+
+#temp-video-img {
+  width: 580px;
+}
+
+#launch-img {
+  width: 340px;
 }

@@ -3,7 +3,7 @@
   height: 160px;
   width: 60px;
   position: absolute;
-  top: 300px;
+  top: 315px;
   right: 0px;
 }
 
@@ -17,8 +17,4 @@
 
 .fa-facebook {
   padding: 5px 0px;
-}
-
-#temp-video-img {
-  width: 580px;
 }
