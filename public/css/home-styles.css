@@ -16,8 +16,8 @@
 
 #sm-menu {
   opacity: .50;
-  height: 165px;
-  width: 50px;
+  height: 160px;
+  width: 60px;
   position: absolute;
   top: 300px;
   right: 0px;
@@ -25,4 +25,12 @@
 
 .sm-icons {
   opacity: 1;
+}
+
+.fa-2-5x {
+  font-size: 2.75em;
+}
+
+.fa-facebook {
+  padding: 5px 0px;
 }
