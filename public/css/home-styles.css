@@ -1,7 +1,7 @@
-#home-main {
+/*#home-main {
   src: url(../fonts/homepage-text.ttf);
   font-family: 'homepage-text'
-}
+}*/
 
 .inc-size {
   font-size: 1.1rem;
@@ -21,4 +21,8 @@
 
 #launch-img {
   width: 340px;
+}
+
+#home-description {
+  padding: 0px 15px;
 }
