@@ -1,5 +1,14 @@
+#home-main {
+  src: url(../fonts/homepage-text.ttf);
+  font-family: 'homepage-text'
+}
+
 .inc-size {
   font-size: 1.1rem;
+}
+
+#home-description {
+  font-size: 1.15rem;
 }
 
 #short-film-title {
