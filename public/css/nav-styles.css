@@ -16,6 +16,11 @@
 #tplogo-navbar {
   width: 250px;
   padding-top: 15px;
+  margin-bottom: 0px;
+}
+
+#tplogo-a {
+  height: 64px;
 }
 
 .menu-item {
