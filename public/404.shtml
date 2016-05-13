@@ -13,6 +13,7 @@
   <link rel="stylesheet" type="text/css" href="/css/nav-styles.css">
   <link rel="stylesheet" type="text/css" href="/css/footer-styles.css">
   <link rel="stylesheet" type="text/css" href="/css/home-styles.css">
+  <link rel="stylesheet" type="text/css" href="/css/sm-icon-styles.css">
   <!-- jQuery -->
   <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
   <!-- Angular -->
