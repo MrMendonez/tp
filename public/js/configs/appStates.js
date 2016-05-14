@@ -14,6 +14,11 @@ angular.module('TrustingPixels')
       // controller: 'whatController',
       templateUrl: 'views/partials/what-partial.html'
     })
+    .state('regulations', {
+      url: '/what/regulations',
+      // controller: 'whatController',
+      templateUrl: 'views/partials/regulations-partial.html'
+    })
     .state('how', {
       url: '/how',
       // controller: 'howController',
@@ -29,11 +34,7 @@ angular.module('TrustingPixels')
       // controller: 'contactController',
       templateUrl: 'views/partials/contact-partial.html'
     })
-    .state('plunkr', {
-      url: '/plunkr',
-      // controller: 'contactController',
-      templateUrl: 'views/plunkr/index.html'
-    })
+    
 
   $locationProvider.html5Mode(true);
 }]);

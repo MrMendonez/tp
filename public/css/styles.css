@@ -22,6 +22,11 @@ body {
   background: black url("../img/what-background.jpg") no-repeat fixed center center / cover ;
 }
 
+#regulations-wrapper {
+  /* Background img fills screen */
+  background: white;
+}
+
 #how-wrapper {
   /* Background img fills screen */
   background: black url("../img/how-background.jpg") no-repeat fixed center center / cover ;
@@ -77,4 +82,10 @@ main {
 
 .tp-white {
   color: #cccac8;
+}
+
+#regulations-link {
+  text-decoration: underline;
+  color: white;
+  font-weight: bold;
 }
