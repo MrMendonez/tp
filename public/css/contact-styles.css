@@ -1,3 +1,16 @@
 .white-background {
   background: rgba(251, 251, 251, 0.50);
 }
+
+.contact-description {
+  font-size: 1.25rem;
+}
+
+#contact-hr {
+  border-color: #232f83;
+  width: 50px;
+}
+
+#contact-description-div {
+  width: 320px;
+}
