@@ -55,6 +55,10 @@ main {
   background: rgba(35, 47, 131, 0.5);
 }
 
+.title-padding {
+  padding: 10px 5px 10px 20px; /* top right bottom left */
+}
+
 .text-padding {
   padding: 20px 15px; /* top/bottom left/right */
 }
