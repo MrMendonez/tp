@@ -37,11 +37,6 @@ body {
   background: black url("../img/contact-background.jpg") no-repeat fixed center center / cover ;
 }
 
-.white-background {
-  background-color: white;
-  opacity: .41;
-}
-
 main {
   flex: 1 0 auto; /* Puts navbar on the bottom */
 }
