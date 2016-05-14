@@ -52,8 +52,8 @@ main {
 }
 
 .purple-background {
-  background-color: #232f83;
-  opacity: .40;
+  background: rgb(42, 52, 88);
+  background: rgba(42, 52, 88, 0.5);
 }
 
 .text-padding {
