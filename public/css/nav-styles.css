@@ -2,15 +2,8 @@
   background: rgba(251, 251, 251, 0.50);
 }
 
-#main-nav-container {
-  margin-left: 12.25rem;
-  margin-right: 2.25rem;
-}
-
 #trusting-pixels-brand {
-  /*  font-family: corbel-bold;*/
   font-size: 2.25rem;
-  /*margin-left: 145px;*/
 }
 
 #tplogo-navbar {
@@ -30,8 +23,3 @@
 #inc-brand {
   font-size: 15px;
 }
-
-
-/**************************************
-Mobile Nav
-**************************************/
