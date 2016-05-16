@@ -19,6 +19,7 @@
 #menu-list {
   position: relative;
   left: 200px;
+
 }
 
 .menu-item {
@@ -28,6 +29,7 @@
 .subpage-items {
   position: relative;
   top: 5px;
+  left: 200px;
 }
 
 #inc-brand {
