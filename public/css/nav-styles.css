@@ -16,26 +16,10 @@
   height: 64px;
 }
 
-#menu-list {
-  position: relative;
-  left: 200px;
-
-}
-
 .menu-item {
-  /*margin-right: 60px;*/
-}
-
-.subpage-items {
-  position: relative;
-  top: 5px;
-  left: 200px;
+  margin-right: 60px;
 }
 
 #inc-brand {
   font-size: 15px;
-}
-
-nav ul a:hover {
-  background-color: rgba(0, 0, 0, 0);
 }
