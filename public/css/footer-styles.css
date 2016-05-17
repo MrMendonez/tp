@@ -1,6 +1,9 @@
 #footer-bar {
   background: rgba(251, 251, 251, 0.50);
   height: 25px;
+  position: fixed;
+  bottom: 0px;
+  width:100%;
 }
 
 #footer-include {
