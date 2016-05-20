@@ -75,10 +75,10 @@ main {
   display: inline;
 }
 
-@font-face {
+/*@font-face {
   font-family: corbel-bold;
   src: url(../fonts/corbel-bold.ttf);
-}
+}*/
 
 .tp-white {
   color: #cccac8;
