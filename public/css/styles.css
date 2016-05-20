@@ -84,7 +84,7 @@ main {
   color: #cccac8;
 }
 
-#regulations-link {
+.text-link {
   text-decoration: underline;
   color: white;
   font-weight: bold;
