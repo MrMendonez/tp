@@ -1,7 +1,7 @@
 /* Styles for Trusted Pixels */
 
 body {
-  font-family: 'Century Gothic', 'Helvetica', sans-serif;
+  font-family: 'Century Gothic', 'Helvetica', sans-serif; /* Helvetica is the fallback since Century Gothic is not an iOS9 font */
 }
 
 .page-wrapper {
