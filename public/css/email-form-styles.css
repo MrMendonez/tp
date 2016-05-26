@@ -2,6 +2,6 @@
   background: #FAFAFA;
 }
 
-.purple-btn, .btn:hover {
+.purple-btn, .purple-btn:hover, .purple-btn:link, .purple-btn:visited, .purple-btn:active {
   background-color: #232f83;
 }
