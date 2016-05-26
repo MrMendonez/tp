@@ -84,3 +84,9 @@ main {
   color: white;
   font-weight: bold;
 }
+
+.purple-text-link {
+  text-decoration: underline;
+  color: #232f83;
+  font-weight: bold;
+}
