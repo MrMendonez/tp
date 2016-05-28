@@ -15,7 +15,7 @@ angular.module('TrustingPixels')
       templateUrl: 'views/partials/what-partial.html'
     })
     .state('regulations', {
-      url: '/what/regulations',
+      url: '/regulations',
       // controller: 'whatController',
       templateUrl: 'views/partials/regulations-partial.html'
     })
@@ -34,7 +34,7 @@ angular.module('TrustingPixels')
       // controller: 'contactController',
       templateUrl: 'views/partials/contact-partial.html'
     })
-    
+
 
   $locationProvider.html5Mode(true);
 }]);
