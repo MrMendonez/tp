@@ -12,8 +12,14 @@
 }
 
 #contact-hr {
+  /* Set the hr color */
+  color: #232f83; /* old IE */
+  background-color: #232f83; /* Modern Browsers */
   border-color: #232f83;
   width: 50px;
+  size: 50;
+  border: none;
+  height: 1px;
 }
 
 #contact-title-div {
