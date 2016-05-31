@@ -12,36 +12,6 @@ body {
   flex-direction: column;
 }
 
-#home-wrapper {
-  /* Background img fills screen */
-  background: black url("../img/home-background.jpg") no-repeat fixed center center / cover ;
-}
-
-#what-wrapper {
-  /* Background img fills screen */
-  background: black url("../img/what-background.jpg") no-repeat fixed center center / cover ;
-}
-
-#regulations-wrapper {
-  /* Background img fills screen */
-  background: white;
-}
-
-#how-wrapper {
-  /* Background img fills screen */
-  background: black url("../img/how-background.jpg") no-repeat fixed center center / cover ;
-}
-
-#why-wrapper {
-  /* Background img fills screen */
-  background: black url("../img/why-background.jpg") no-repeat fixed center center / cover ;
-}
-
-#contact-wrapper {
-  /* Background img fills screen */
-  background: black url("../img/contact-background.jpg") no-repeat fixed center center / cover ;
-}
-
 main {
   flex: 1 0 auto; /* Puts navbar on the bottom */
 }

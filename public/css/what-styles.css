@@ -1,3 +1,4 @@
-#what-title {
-    top: 100px;
+#what-wrapper {
+  /* Background img fills screen */
+  background: black url("../img/what-background.jpg") no-repeat fixed center center / cover ;
 }

@@ -1,3 +1,8 @@
+#contact-wrapper {
+  /* Background img fills screen */
+  background: black url("../img/contact-background.jpg") no-repeat fixed center center / cover ;
+}
+
 .white-background {
   background: rgba(251, 251, 251, 0.50);
 }

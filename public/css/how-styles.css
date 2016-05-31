@@ -1,4 +1,4 @@
-#how-title-desktop {
-  position: relative;
-  /*left: -15px;*/
+#how-wrapper {
+  /* Background img fills screen */
+  background: black url("../img/how-background.jpg") no-repeat fixed center center / cover ;
 }
