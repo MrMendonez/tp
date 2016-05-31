@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  
+
   // initiate modal trigger
   $('.modal-trigger').leanModal();
 
