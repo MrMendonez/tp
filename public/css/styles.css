@@ -60,3 +60,8 @@ main {
   color: #232f83;
   font-weight: bold;
 }
+
+label {
+    font-size: 1rem;
+    color: #232f83;
+}

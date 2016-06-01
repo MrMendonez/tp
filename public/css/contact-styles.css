@@ -29,3 +29,8 @@
 #contact-description-div {
   width: 300px;
 }
+
+input::-webkit-input-placeholder {
+  color: #232f83;
+  opacity: 0.75;
+}
