@@ -23,11 +23,15 @@
 }
 
 #contact-title-div {
-  width: 250px;
+  max-width: 250px;
 }
 
 #contact-description-div {
-  width: 300px;
+  max-width: 300px;
+}
+
+#contact-mailform-div {
+  max-width: 600px;
 }
 
 input::-webkit-input-placeholder {
