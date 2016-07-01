@@ -1,1 +1,1 @@
-angular.module('TrustingPixels', ['ui.router']);
+angular.module('TrustingPixels', ['ui.router', 'ngAnimate']);
